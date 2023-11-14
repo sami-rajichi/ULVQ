@@ -73,7 +73,7 @@ The experiments yielded the following evaluation scores with the IRIS Dataset:
 - Davies-Bouldin Index: 0.723859
 - Calinski-Harabasz Index: 171.915681
 
-###Labeling Evaluation Metrics:
+### Labeling Evaluation Metrics:
 - Accuracy: 0.726667
 - Adjusted Rand Index: 0.544069
 - Normalized Mutual Information: 0.643923
